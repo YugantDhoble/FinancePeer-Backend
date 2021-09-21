@@ -1,5 +1,5 @@
 # FinancePeer-Backend
-## _This is the backend part of the application in which there are routes for the following type of requests:
+## This is the backend part of the application in which there are routes for the following type of requests:
 - Login 
 - Signup
 - Upload a json file & then save the data in database
