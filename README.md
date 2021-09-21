@@ -6,8 +6,8 @@
 - Fetch all saved data. 
 
 | Request | Route | Accepted Data |
-| ------ | ------ |
-| Signup | '/user/register' | Json data: {"username" : "xyz", "password": "secret"}[PlDb] |
-| Login | '/user/login' | Json data: {"username" : "xyz", "password": "secret"}[PlGh] |
-| Upload & Save a File | '/user/upload' | Form data: jsonFile: [<json_file.json>][PlGd] |
-| Get Uploaded User Details | '/user/details' | N/A [PlGa] |
+| ------ | ------ | ------------- |
+| Signup | '/user/register' | [Json data: {"username" : "xyz", "password": "secret"}][PlDb] |
+| Login | '/user/login' | [Json data: {"username" : "xyz", "password": "secret"}][PlGh] |
+| Upload & Save a File | '/user/upload' | [Form data: jsonFile: <json_file.json>][PlGd] |
+| Get Uploaded User Details | '/user/details' | [N/A] [PlGa] |
