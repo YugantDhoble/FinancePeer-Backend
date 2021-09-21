@@ -1,4 +1,6 @@
 # FinancePeer-Backend
+# FinancePeer-Frontend: https://github.com/YugantDhoble/FinancePeer-Frontend
+# Application Url: https://financepeer-task.netlify.app/
 ## This is the backend part of the application in which there are routes for the following type of requests:
 - Login 
 - Signup
