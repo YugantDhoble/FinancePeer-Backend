@@ -7,7 +7,7 @@
 
 | Request | Route | Accepted Data |
 | ------ | ------ | ------------- |
-| Signup | '/user/register' | [Json data: {"username" : "xyz", "password": "secret"}] |
-| Login | '/user/login' | [Json data: {"username" : "xyz", "password": "secret"}] |
-| Upload & Save a File | '/user/upload' | [Form data: jsonFile: <json_file.json>] |
-| Get Uploaded User Details | '/user/details' | [N/A] |
+| Signup | '/user/register' | Json data: {"username" : "xyz", "password": "secret"} |
+| Login | '/user/login' | Json data: {"username" : "xyz", "password": "secret"} |
+| Upload & Save a File | '/user/upload' | Form data: jsonFile: <json_file.json> |
+| Get Uploaded User Details | '/user/details' | N/A |
