@@ -5,7 +5,7 @@
 - Login 
 - Signup
 - Upload a json file & then save the data in database
-- Fetch all saved data. 
+- Fetch all saved data
 
 | Request | Route | Accepted Data |
 | ------ | ------ | ------------- |
